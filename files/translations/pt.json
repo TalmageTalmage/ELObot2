@@ -1,0 +1,77 @@
+{
+    "language": "pt",
+    "messageCreate": {
+        "adminOnly": "Você precisa ter permissão de administrador para poder usar esse comando!",
+        "banned": "Você está **banido** de usar qualquer comando pelo seguinte \nMotivo: `$REASON` \n\nAcha que seu banimento foi injusto? Use o comando `$PREFIXreport <report>`",
+        "noPermissions": "Parece que eu não possuo a permissão `$PERM` para executar meus comandos!",
+        "noCmd": "Está precisando de ajuda? \nPara ver todos os comandos digite `$PREFIXhelp`",
+        "nsfw": "Use esse comando em um canal NSFW apenas. Acho que você não quer levar ban né?",
+        "EMBED": {
+            "ERROR": {
+                "title": "Um erro ocorreu, desculpe por isso",
+                "description": "```$ERROR```",
+                "footer": "Contate me com o comando: $PREFIXreport <message>"
+            }
+        }
+    },
+    "bot": {
+        "help": {
+            "description": "Mostra isso",
+            "noCmd": "Não encontrei nenhum comando chamado `$COMMAND`",
+            "EMBED": {
+                "cmd": {
+                    "title": "Informações detalhadas sobre:",
+                    "footer": "<> - Argumento obrigátorio \n[] - Argumento opcional"
+                },
+                "noCmd": {
+                    "footer": "Para ver informações de um comando, digite $PREFIXhelp [command]"
+                }
+            }
+        },
+        "invite": {
+            "description": "Você faria isso? :)",
+            "EMBED": {
+                "title": "Me coloque no seu servidor :)",
+                "description": "Só precisa clicar nesse"
+            }
+        },
+        "ping": {
+            "description": "Quão rápido vou te responder"
+        },
+        "uptime": {
+            "description": "A quanto tempo estou acordado",
+            "EMBED": {
+                "footer": "Sem nenhum acidente de trabalho... por enquanto"
+            }
+        }
+    },
+    "utils": {
+        "avatar": {
+            "description": "Quer ver sua linda foto de perfil?",
+            "noAvatar": "Mencione alguém ou use uma ID válida!",
+            "EMBED": {
+                "author": "• Avatar de"
+            }
+        },
+        "calc": {
+            "description": "Está com preguiça de ter que abrir a calculadora?",
+            "noOperation": "Acho que você esquceu de... Meio que... Digitar a operação",
+            "result": "Resultado:",
+            "invalid": "Quer fazer conta com coisas que não sejam `números` ou `operadores aritméticos`? Desculpa, apenas contas pro meu nível de inteligência \n\n`+` - Adição \n`-` - Subtração \n`*` ou `x` - Multiplicação \n`/` ou `÷` - Divisão"
+        },
+        "clear": {
+            "description": "Vamos limpar esse chat sujo!",
+            "noCount": "Por favor, digite a quantidade de mensagens para eu limpar!",
+            "tooBig": "Desculpa, o máximo que posso limpar são `100` mensagens",
+            "isNaN": "Não posso limpar `$DELETECOUNT` mensagens",
+            "EMBED": {
+                "description": "mensagens limpas:broom: \nPelas orgens de"
+            },
+            "error": "Não foi possível limpar essas mensagens \nTalvez elas tenham sido enviadas a muito tempo, o que me impede de remove-las :("
+        },
+        "region": {
+            "description": "Troca a região do servidor",
+            "noReg": "A região atual do servidor é `$REGION`"
+        }
+    }
+}

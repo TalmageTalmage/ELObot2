@@ -1,0 +1,77 @@
+{
+    "language": "en",
+    "messageCreate": {
+        "adminOnly": "You need admin permission to use this command!",
+        "banned": "You're **banned** from using any command \nReason: `$REASON` \n\nAcha que seu banimento foi injusto? User o comando `$PREFIXreport <report>`\nComo tu conseguiu ser banido de um bot do discord?",
+        "noPermissions": "Looks like I don't have the `$PERM` permission to execute my commands!",
+        "noCmd": "Need help? \nType `$PREFIXhelp` to see all my commands categorys",
+        "nsfw": "Use this command in a NSFW channel only. I think you don't want be banned",
+        "EMBED": {
+            "ERROR": {
+                "title": "An error ocurred, sorry for that",
+                "description": "```$ERROR```",
+                "footer": "Contact me with: $PREFIXreport <message>"
+            }
+        }
+    },
+    "bot": {
+        "help": {
+            "description": "Show this",
+            "noCmd": "I didn't find any command with that name `$COMMAND`",
+            "EMBED": {
+                "cmd": {
+                    "title": "Detailed Information about:",
+                    "footer": "<> - Obrigatory Argument \n[] - Optional Argument"
+                },
+                "noCmd": {
+                    "footer": "To see a command information, type $PREFIXhelp [command]"
+                }
+            }
+        },
+        "invite": {
+            "description": "Would you do it? :)",
+            "EMBED": {
+                "title": "Send me to your server :)",
+                "description": "You just need to click on this"
+            }
+        },
+        "ping": {
+            "description": "Iformation of how fast I can send messages"
+        },
+        "uptime": {
+            "description": "How long have I been awake",
+            "EMBED": {
+                "footer": "No work accidents... yet"
+            }
+        }
+    },
+    "utils": {
+        "avatar": {
+            "description": "Show your awesome profile picture to the world",
+            "noAvatar": "Ping someone or use a valid ID!",
+            "EMBED": {
+                "author": "• Avatar of"
+            }
+        },
+        "calc": {
+            "description": "Too lazy to open the calculator?",
+            "noOperation": "I think you.. Forgot to uhh... type the operation",
+            "result": "Result:",
+            "invalid": "I don't have the IQ to do math that doesn't have `numbers` or `arithmetic operators` \n\n`+` - Addition \n`-` - Subtraction \n`*` or `x` - Multiplication \n`/` ou `÷` - Division"
+        },
+        "clear": {
+            "description": "Let's clean this dirty chat!",
+            "noCount": "Please, type how many messages I need to clean",
+            "tooBig": "Sorry, The most I can clean is `100` messages",
+            "isNaN": "I can't delete `$DELETECOUNT` messages",
+            "EMBED": {
+                "description": "Cleaned messages :broom: \nBy the orders of"
+            },
+            "error": "Unable to clear that messages \nMaybe the messages are too old, what makes it impossible for me to delete them :("
+        },
+        "region": {
+            "description": "Change the server language",
+            "noReg": "The server current region is `$REGION`"
+        }
+    }
+}
