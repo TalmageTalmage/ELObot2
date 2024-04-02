@@ -15,12 +15,12 @@ Starts a lobby for the specified game mdode in the current channel
 [-Join](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/join.js)
 Join the lobby in the current channel
 
-[-Leave]([https://www.google.com](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/leave.js))
+[-Leave](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/leave.js)
 Leaves the lobby in the current channel
 
 [Lists the game modes in the current channel](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/games.js)
 
-[-Leaders]([https://www.google.com](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/leaders.js))
+[-Leaders]((https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/leaders.js)
 Dispalys the leaderboard for the specified game mode
 -Leaders <Game name>
 
