@@ -20,7 +20,7 @@ Leaves the lobby in the current channel
 
 [Lists the game modes in the current channel](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/games.js)
 
-[-Leaders]((https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/leaders.js)
+[-Leaders](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/leaders.js)
 Dispalys the leaderboard for the specified game mode
 -Leaders <Game name>
 
