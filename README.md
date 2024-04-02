@@ -39,3 +39,16 @@ Displays stats of current player or you can name a player to see their stats.
 [-Lobby](https://github.com/TalmageTalmage/elobot2/blob/main/commands/Bot/lobby.js)
 List players in the lobby
 
+Some pictures of the (since deleted) bot in action
+
+![Creating a game](https://imgur.com/1qEYiro)
+
+![Joining the lobby](https://imgur.com/aOhyMj3)
+
+![Drafting Teams](https://imgur.com/O411wox)
+
+![Scoring lobby](https://imgur.com/oxu4V1q)
+
+![Comparing Users](https://imgur.com/EyrVDz0)
+
+![Leaderboard](https://imgur.com/g2gv9j2)
