@@ -41,14 +41,14 @@ List players in the lobby
 
 Some pictures of the (since deleted) bot in action
 
-![Creating a game](https://imgur.com/1qEYiro)
+![Creating a game](https://i.imgur.com/1qEYiro.png)
 
-![Joining the lobby](https://imgur.com/aOhyMj3)
+![Joining the lobby](https://i.imgur.com/aOhyMj3.png)
 
-![Drafting Teams](https://imgur.com/O411wox)
+![Drafting Teams](https://i.imgur.com/O411wox.png)
 
-![Scoring lobby](https://imgur.com/oxu4V1q)
+![Scoring lobby](https://i.imgur.com/oxu4V1q.png)
 
-![Comparing Users](https://imgur.com/EyrVDz0)
+![Comparing Users](https://i.imgur.com/EyrVDz0.png)
 
-![Leaderboard](https://imgur.com/g2gv9j2)
+![Leaderboard](https://i.imgur.com/g2gv9j2.png)
